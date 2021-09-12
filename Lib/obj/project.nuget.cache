@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qIjfKI1vBW8/fPR1vtIblW1XPuESXa4xtJ5AihPFrA+Gy0BZEiH8kPANyWPl8fCy52L2nOYRPdYlCjghXu9HaA==",
+  "success": true,
+  "projectFilePath": "D:\\University\\SPP\\Faker\\Lib\\Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmega\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
