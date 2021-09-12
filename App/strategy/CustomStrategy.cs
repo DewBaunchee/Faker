@@ -11,7 +11,7 @@ namespace App.Strategy
 
         public bool IsDefaultValue(object value)
         {
-            return true;
+            return value == null;
         }
     }
 }
